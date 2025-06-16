@@ -1,0 +1,11 @@
+[
+  {
+    "Nom": "test-nginx",
+    "Image": "nginx:latest",
+    "Statut": "running",
+    "CPU (%)": 0.0,
+    "M\u00e9moire (Mo)": 9.98,
+    "Rx (Ko)": 1.66,
+    "Tx (Ko)": 0.12
+  }
+]
